@@ -30,4 +30,4 @@ O tic-tac-toe é um sistema criado como pré-requisito para a disciplina de XXX 
 
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
->>>>>>> e3a0a0d3100d20281ed387e8ad80575fc7e53c55
+
