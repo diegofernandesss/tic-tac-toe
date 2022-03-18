@@ -10,12 +10,6 @@ Gerando uma máquina virtual por meio do virtual env
 python -m venv env
 ```
 
-Instalar as bibliotecas/dependências.
-
-```bash
-pip install -r requirements.txt
-```
-
 Executar o main.py
 
 ```bash
