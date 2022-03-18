@@ -10,12 +10,6 @@ Gerando uma máquina virtual por meio do virtual env
 python -m venv env
 ```
 
-Instalar as bibliotecas/dependências.
-
-```bash
-pip install -r requirements.txt
-```
-
 Executar o main.py
 
 ```bash
@@ -23,7 +17,7 @@ python main.py
 ```
 
 ## Colaboradores
-O tic-tac-toe é um sistema criado como pré-requisito para a disciplina de XXX e foi desenvolvida por 
+O tic-tac-toe é um sistema criado como pré-requisito para a disciplina de Protocolo de Interconexão de Redes de Computadores e foi desenvolvida por 
 [Alison Andrade](https://github.com/alisonsandrade),
 [Diego Fernandes](https://github.com/diegofernandesss), [Maria Solange](https://github.com/SolangeMeireles) e [Matheus](https://github.com/Matheus-9).
 
